@@ -15,9 +15,9 @@ public class Tierheim {
 		paddy = new Hund(8,"paddy",true,17.00,"rot","fleisch",false);
 		Katze leon = new Katze(18,"idiet",true,1.00,"rot","fleisch",false);
 		rantier Alex = new rantier(88, "A", false, 14.8, "tonne", "idiet", true);
-		Supertier dbTierheim[0] = leon;
-		
-		
+		dBTierheim[0] = leon;
+		dBTierheim[1] = Alex;
+		dBTierheim[0] = paddy;
 		
 		
 		
